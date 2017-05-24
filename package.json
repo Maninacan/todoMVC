@@ -1,0 +1,26 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "To-Do",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maninacan/todoMVC.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Nicole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maninacan/todoMVC/issues"
+  },
+  "homepage": "https://github.com/Maninacan/todoMVC#readme"
+}
