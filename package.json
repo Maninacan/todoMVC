@@ -1,9 +1,11 @@
 {
   "name": "todomvc",
   "version": "1.0.0",
-  "description": "",
+
+  "description": "To-Do",
   "main": "index.js",
   "dependencies": {
+    "vue": "^2.3.3",
     "uikit": "^3.0.0-beta.24"
   },
   "devDependencies": {},
@@ -14,7 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/Maninacan/todoMVC.git"
   },
-  "author": "",
+  "keywords": [
+    "todo"
+  ],
+  "author": "Nicole",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Maninacan/todoMVC/issues"
