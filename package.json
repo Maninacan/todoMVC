@@ -1,6 +1,7 @@
 {
   "name": "todomvc",
   "version": "1.0.0",
+
   "description": "To-Do",
   "main": "index.js",
   "dependencies": {
