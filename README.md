@@ -33,9 +33,10 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 Yarn is an asynchronous wrapper around npm.  (It uses npm under the hood)  
 To use it in place of npm see mapping: 
  
-`npm init`                      -> `yarn init`    
-`npm install`                   -> `yarn install`  
-`npm install <dependency>`      -> `yarn add <dependency>`     
-`npm uninstall <dependency>`    -> `yarn remove <dependency>`   
-`npm run <script-command>`      -> `yarn run <script-command>`    
+`npm init`                                  -> `yarn init`    
+`npm install`                               -> `yarn install`  
+`npm install <dependency>`                  -> `yarn add <dependency>`     
+`npm install <script-command> --save-dev`   -> `yarn add <script-command> --dev`    
+`npm uninstall <dependency>`                -> `yarn remove <dependency>`   
+`npm run <script-command>`                  -> `yarn run <script-command>`    
 
