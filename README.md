@@ -28,3 +28,15 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Yarn
+Yarn is an asynchronous wrapper around npm.  (It uses npm under the hood)  
+To use it in place of npm see mapping: 
+ 
+`npm init`                                  -> `yarn init`    
+`npm install`                               -> `yarn install`  
+`npm install <dependency>`                  -> `yarn add <dependency>`     
+`npm install <script-command> --save-dev`   -> `yarn add <script-command> --dev`    
+`npm uninstall <dependency>`                -> `yarn remove <dependency>`   
+`npm run <script-command>`                  -> `yarn run <script-command>`    
+
